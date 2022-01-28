@@ -3,19 +3,12 @@
         <title>所有文章 - Rowan&#39;s Blog</title>
         <link>https://rowanlau.github.io/posts/</link>
         <description>所有文章 | Rowan&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-CN</language>
-        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-        </copyright>
-        <lastBuildDate>Fri, 28 Jan 2022 11:38:11 &#43;0800</lastBuildDate>
-        <atom:link href="https://rowanlau.github.io/posts/" rel="self" type="application/rss+xml"/>
-        <item>
-            <title>Test1</title>
-            <link>https://rowanlau.github.io/test1/</link>
-            <pubDate>Fri, 28 Jan 2022 11:38:11 &#43;0800</pubDate>
-            <author>作者</author>
-            <guid>https://rowanlau.github.io/test1/</guid>
-            <description><![CDATA[test ]]></description>
-        </item>
-    </channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 26 Jan 2022 14:13:46 &#43;0800</lastBuildDate><atom:link href="https://rowanlau.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>文章1</title>
+    <link>https://rowanlau.github.io/test1/</link>
+    <pubDate>Wed, 26 Jan 2022 14:13:46 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://rowanlau.github.io/test1/</guid>
+    <description><![CDATA[文章一 内容]]></description>
+</item></channel>
 </rss>
