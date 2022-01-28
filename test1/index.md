@@ -2,4 +2,4 @@
 
 
 # ceshi
-![](img.png)
+![](./posts/test1/img.png)
